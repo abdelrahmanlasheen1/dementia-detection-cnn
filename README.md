@@ -18,3 +18,5 @@ The dataset I used is the **OASIS MRI dataset**, which is publicly available:
 
 I assigned **400 images per class** (so the dataset was imbalanced overall), and organized them into folders like this:
 
+
+Project done by ABDELRAHMAN LASHEEN
